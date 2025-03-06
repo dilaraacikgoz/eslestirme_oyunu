@@ -1,0 +1,16 @@
+C:\Users\Dilara\source\repos\eslestirmeoyunu\bin\Debug\net8.0-windows\eslestirmeoyunu.exe
+C:\Users\Dilara\source\repos\eslestirmeoyunu\bin\Debug\net8.0-windows\eslestirmeoyunu.deps.json
+C:\Users\Dilara\source\repos\eslestirmeoyunu\bin\Debug\net8.0-windows\eslestirmeoyunu.runtimeconfig.json
+C:\Users\Dilara\source\repos\eslestirmeoyunu\bin\Debug\net8.0-windows\eslestirmeoyunu.dll
+C:\Users\Dilara\source\repos\eslestirmeoyunu\bin\Debug\net8.0-windows\eslestirmeoyunu.pdb
+C:\Users\Dilara\source\repos\eslestirmeoyunu\obj\Debug\net8.0-windows\eslestirmeoyunu.Form1.resources
+C:\Users\Dilara\source\repos\eslestirmeoyunu\obj\Debug\net8.0-windows\eslestirmeoyunu.csproj.GenerateResource.cache
+C:\Users\Dilara\source\repos\eslestirmeoyunu\obj\Debug\net8.0-windows\eslestirmeoyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dilara\source\repos\eslestirmeoyunu\obj\Debug\net8.0-windows\eslestirmeoyunu.AssemblyInfoInputs.cache
+C:\Users\Dilara\source\repos\eslestirmeoyunu\obj\Debug\net8.0-windows\eslestirmeoyunu.AssemblyInfo.cs
+C:\Users\Dilara\source\repos\eslestirmeoyunu\obj\Debug\net8.0-windows\eslestirmeoyunu.csproj.CoreCompileInputs.cache
+C:\Users\Dilara\source\repos\eslestirmeoyunu\obj\Debug\net8.0-windows\eslestirmeoyunu.dll
+C:\Users\Dilara\source\repos\eslestirmeoyunu\obj\Debug\net8.0-windows\refint\eslestirmeoyunu.dll
+C:\Users\Dilara\source\repos\eslestirmeoyunu\obj\Debug\net8.0-windows\eslestirmeoyunu.pdb
+C:\Users\Dilara\source\repos\eslestirmeoyunu\obj\Debug\net8.0-windows\eslestirmeoyunu.genruntimeconfig.cache
+C:\Users\Dilara\source\repos\eslestirmeoyunu\obj\Debug\net8.0-windows\ref\eslestirmeoyunu.dll
